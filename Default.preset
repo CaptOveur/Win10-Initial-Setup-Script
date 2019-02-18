@@ -78,7 +78,7 @@ DisableAutorun                  # EnableAutorun
 # SetBIOSTimeUTC                # SetBIOSTimeLocal
 # EnableHibernation             # DisableHibernation
 # DisableSleepButton            # EnableSleepButton
-# DisableSleepTimeout           # EnableSleepTimeout
+# DisableSleepTimeout           EnableSleepTimeout
 # DisableFastStartup            # EnableFastStartup
 # DisableAutoRebootOnCrash      # EnableAutoRebootOnCrash
 
